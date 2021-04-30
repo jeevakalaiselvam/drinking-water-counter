@@ -72,6 +72,7 @@ body {
     margin: 1rem;
     padding-top: 1rem;
     border-top: none;
+    border-radius: 0 0 30px 30px;
     display: inline-block;
     position: relative;
     overflow: hidden;
